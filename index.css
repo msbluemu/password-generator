@@ -1,0 +1,49 @@
+body {
+    margin: 50px 20px;
+    background-color: #ECFDF5;
+    text-align: center;
+}
+
+h1 {
+    color: #2B283A;
+    font-size: 30px;
+}
+
+h2 {
+    color: #10B981;
+    margin-top: -20px;
+    font-size: 30px;
+    margin-bottom: -10px;
+}
+
+p {
+    color: #6B7280;
+}
+
+button {
+    margin-top: 20px;
+    border: 1px;
+    padding: 8px 10px;
+    background-color: #10B981;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+hr {
+    margin-top: 30px;
+    color: #D5D4D8;
+}
+
+#password {
+    display: flex;
+    justify-content: space-around;
+}
+
+#passwordOne, #passwordTwo {
+    border: 1px;
+    background-color: #273549;
+    color: #5DEF92;
+    padding: 4px 20px;
+    border-radius: 5px;
+} 
